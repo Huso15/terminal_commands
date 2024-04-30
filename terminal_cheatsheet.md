@@ -57,11 +57,3 @@ git stash = *Save modified and staged changes*
 git remote add = *Add a git URL*
 
 git show = *Show any object in Git in human-readable format*
-
-
-
-
-
-
-
-
